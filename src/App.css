@@ -1,0 +1,22 @@
+.leyenda{
+    background-color: #CC0000;
+    color: white;
+    text-align: center;
+    padding: 3px;
+}
+
+.cardOfertas{
+    width: 80rem;
+    height: 40rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    
+}
+
+.promociones{
+    margin: 1rem;
+
+}
+
